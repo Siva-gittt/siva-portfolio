@@ -359,9 +359,9 @@ function App() {
 
                 <div className="resume-download">
                   <a
-                    href={`${import.meta.env.BASE_URL}assets/Sivamyresumefedr.pdf`}
+                    href={`${import.meta.env.BASE_URL}assets/sivamsresume.pdf`}
                     className="btn btn-primary download-btn"
-                    download="Sivamyresumefedr.pdf"
+                    download="sivamsresume.pdf"
                     target="_blank"
                     rel="noopener noreferrer"
                   >
@@ -509,7 +509,7 @@ function App() {
                     <i className="fab fa-linkedin" /> LinkedIn
                   </a>
                   <a
-                    href="https://github.com/Sivavirt123"
+                    href="https://github.com/Siva-gittt"
                     target="_blank"
                     rel="noreferrer"
                     className="social-link"
